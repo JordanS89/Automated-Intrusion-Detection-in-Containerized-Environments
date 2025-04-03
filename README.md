@@ -19,7 +19,7 @@ In Progress...
 <b>In Progress...</b>
 <p align="center">
 Simulated environment on VMWare: <br/>
-<img src="" height="80%" width="80%" alt="Project Steps"/>
+<img src="https://i.imgur.com/asFIJw1.jpeg" height="80%" width="80%" alt="Project Steps"/>
 <br />
 <br />
 Figure 2: . <br/>
